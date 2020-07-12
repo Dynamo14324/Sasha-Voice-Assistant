@@ -1,0 +1,23 @@
+
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/shasha",
+    "prod_uri": "mysql://root:@localhost/shasha",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "git_url": "https://github.com/codingthunder",
+    "blog_name": "Luv ka Blog",
+    "tag_line": "A fun blog by luv ^-^",
+    "gmail-user": "novaprime2109@gmail.com",
+    "gmail-password": "luvkaranwal12345",
+    "about_text": "Hello there, welcome to Luv ka Blog ^-^. Happy Blogging",
+    "no_of_posts":3,
+    "login_image": "paddu.svg",
+    "admin_user": "luvkaranwal",
+    "admin_password": "popatiya",
+    "upload_location": "E:\\Android_app_with_python_for students\\static"
+  }
+
+}
